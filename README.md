@@ -13,8 +13,7 @@ Operating System Projects
 >> Fill in the names and email addresses of your group members.
 
 Yonghyun Park <yonghyun@buffalo.edu>
-FirstName LastName <email@domain.example>
-FirstName LastName <email@domain.example>
+
 
 ---- PRELIMINARIES ----
 
